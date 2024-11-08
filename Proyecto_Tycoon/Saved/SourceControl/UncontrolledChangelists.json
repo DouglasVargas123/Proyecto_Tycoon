@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Fork/Proyecto_Tycoon/Proyecto_Tycoon/Content/__ExternalActors__/00_Blueprints/00_ThirdPerson/Maps/ThirdPersonMap/A/Z1/OQRJOYQ2H188LXU5JQYCAG.uasset",
+				"E:/Fork/Proyecto_Tycoon/Proyecto_Tycoon/Content/__ExternalActors__/00_Blueprints/00_ThirdPerson/Maps/ThirdPersonMap/4/DW/O6YOZ4X7E7F01B9Q6KCKGY.uasset",
+				"E:/Fork/Proyecto_Tycoon/Proyecto_Tycoon/Content/__ExternalObjects__/00_Blueprints/00_ThirdPerson/Maps/ThirdPersonMap/C/U3/YSAUWRMBUB06UYASV5ACMV.uasset"
+			]
+		}
+	]
+}
